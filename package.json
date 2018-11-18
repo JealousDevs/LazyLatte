@@ -1,0 +1,23 @@
+{
+  "name": "evil_morty",
+  "version": "1.0.1",
+  "description": "A moderation bot, also has fun parts too.",
+  "main": "./src/morty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JealousDevs",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "gyazo-api": "^0.3.1",
+    "imgur": "^0.2.1",
+    "jimp": "^0.2.28",
+    "moment": "^2.21.0",
+    "moment-timezone": "^0.5.14",
+    "nodemon": "^1.17.1",
+    "omdb": "^0.8.0",
+    "random-hex-color": "^1.0.1",
+    "urban": "^0.3.1"
+  }
+}
